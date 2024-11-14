@@ -1,0 +1,20 @@
+.signUp-Container{
+    background-color: white;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.formEle{
+    display: flex;
+    flex-direction: column;
+}
+
+.formContainer{
+    border: 1px solid grey;
+    padding: 30px;
+    border-radius: 15px;
+}

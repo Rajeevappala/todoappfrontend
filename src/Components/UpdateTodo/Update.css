@@ -1,0 +1,36 @@
+.updateContainer{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.nav-cont{
+    background-color: hwb(0 93% 5%);
+    height: 10vh;
+    padding: 5px;
+    color: rgb(232, 85, 12);
+    font-family: Roboto;
+    font-weight: 600;
+}
+
+.updateForm{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    margin: 5px;
+    padding: 25px;
+    border: 1px solid grey;
+    border-radius: 15px;
+    width: 40vw;
+    margin-left: 30vw;
+    margin-top: 25px;
+}
+
+.nav-cont{
+    background-color: hwb(0 93% 5%);
+    height: 10vh;
+    padding: 5px;
+    color: rgb(232, 85, 12);
+    font-family: Roboto;
+    font-weight: 600;
+}

@@ -1,0 +1,8 @@
+.nav-cont{
+    background-color: hwb(0 93% 5%);
+    height: 10vh;
+    padding: 5px;
+    color: rgb(232, 85, 12);
+    font-family: Roboto;
+    font-weight: 600;
+}
